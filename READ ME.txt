@@ -1,0 +1,47 @@
+ /$$      /$$           /$$$$$$$   /$$$$$$  /$$$$$$$$         /$$        /$$$$$$ 
+| $$$    /$$$          | $$__  $$ /$$__  $$|__  $$__/       /$$$$       /$$$_  $$
+| $$$$  /$$$$ /$$   /$$| $$  \ $$| $$  \ $$   | $$         |_  $$      | $$$$\ $$
+| $$ $$/$$ $$| $$  | $$| $$$$$$$ | $$  | $$   | $$           | $$      | $$ $$ $$
+| $$  $$$| $$| $$  | $$| $$__  $$| $$  | $$   | $$           | $$      | $$\ $$$$
+| $$\  $ | $$| $$  | $$| $$  \ $$| $$  | $$   | $$           | $$      | $$ \ $$$
+| $$ \/  | $$|  $$$$$$$| $$$$$$$/|  $$$$$$/   | $$          /$$$$$$ /$$|  $$$$$$/
+|__/     |__/ \____  $$|_______/  \______/    |__/         |______/|__/ \______/ 
+              /$$  | $$                                                          
+             |  $$$$$$/                                                          
+              \______/  
+			  
+Hey, first off thanks for purchasing this little amazing piece of software!
+If you need any help do not hesitate and contact me on mc-market!
+
+Upcomming functions:
+	Synced Ranks (Later)
+	Game chat sync (Later)
+	Meme Library
+	AND ALL OF YOUR SUGGESTIONS IN REVIEWS!
+	
+Now how do you use this application?
+	As you know this is a NodeJS application you may run it on your
+	personal computer by installing latest NodeJs and starting it by
+	typing this is command line window while you are in the same directory: node bot.js
+	
+	But this isn't very practical so if you have a VPS you could run it the same way but with screen or tmux
+	the command for the screen would be: screen -dmS <sessionname> node bot.js (while you are in the same directory)
+	
+	But if you don't have any of those options you should try https://heroku.com
+	What is Heroku? it is a free web app host and supports nodejs take a look on https://youtube.com how to setup
+a nodejs app on there!
+	
+Okay, this is done now how do I get bot key?
+	Go to this URL: https://discordapp.com/developers/ and create new "APP" (Bot user)
+	After you made that and you are done customizing it press on "Create new bot user"
+	And copy the "bot token" and paste it in config under "token"
+	
+	After that just run the app as shown above and enjoy!
+	Updates should be weekly depending on how much time ill have!
+	So if you have any suggestions/questions just contact me and I will be happy to help you! :)
+	
+Configuration:
+	Everything can be configured in Config/config.json
+	
+Developed by 8qBIT.
+	
